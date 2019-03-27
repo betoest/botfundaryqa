@@ -1,0 +1,50 @@
+{
+  "name": "botfundaryqa",
+  "padlock": "NSosUteJdLVrr0gOeqWw8A==!Cb6h5hbqikAiAe5YAvaPsTwvhj/goY/edkHN7mPu+Z8iLO+nkVoCRortNRVw+ZqU",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "d5526766-a1f4-464f-82e4-c70373025cea",
+      "subscriptionId": "ef6bcb7a-5c66-4a83-97c9-d859b6f5d1b2",
+      "resourceGroup": "FundaryDev",
+      "serviceName": "botfundaryqa",
+      "type": "abs",
+      "name": "botfundaryqa",
+      "id": "1"
+    },
+    {
+      "connectionString": "Tvf13WNURN+2UFi+eNME5w==!DHuZ3NL685iXi2jQd/WvPYtiHmKL8yiD8AjBGF2E27Tvcy6xXW3CLbl3zhjHoKFq0en/7quU7V/ZEXanLbVe7gkPsgIDujArESc5Z9Qzkjnu8SZWrpthcnuT+VEsbOU/JkDtv4rc55rcXiOfltkks5+jdxqlTUGKDO1495kU9vXY+wIxwsYcNfaLi9mvleumy9G1kqPV725JUvdDSn+ntIYHKhlL92O2Jc69tXHrspw=",
+      "tenantId": "d5526766-a1f4-464f-82e4-c70373025cea",
+      "subscriptionId": "ef6bcb7a-5c66-4a83-97c9-d859b6f5d1b2",
+      "resourceGroup": "FundaryDev",
+      "serviceName": "botfundaryqa9b5f",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "2a84a5a3-ebe9-4553-9606-d014b1591d3f",
+      "appPassword": "p18QGEhvhMJC9cGQ/wOIyw==!Fu0gn0jdGLpmmaDcCAUtKYsrvdMLkU27Zfs1LD9omFA=",
+      "endpoint": "https://botfundaryqa.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "5ab4ca7d-f797-4141-bf34-f4a8295c5c12",
+      "authoringKey": "kpTTx+CT4JA/oOx9pZVkog==!L0J2feVFDfvtecS8gO/pkQKZ2Ni5Xow1fHr5Ud4mFCPejksLZTu0PBa2kKUWBYOk",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
